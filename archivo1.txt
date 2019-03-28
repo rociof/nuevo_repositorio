@@ -1,0 +1,4 @@
+ejemplo de archivo 1
+otra línea
+nueva línea
+nuevísima línea
